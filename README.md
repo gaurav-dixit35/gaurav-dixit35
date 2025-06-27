@@ -1,4 +1,8 @@
 <div align="left">
+  <a href="https://gaurav-dixit35.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=internet-explorer&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
+</a>
+
   <a href="mailto:gd36990@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
@@ -39,7 +43,7 @@ I'm a dedicated Full Stack Developer with a passion for creating robust web appl
 - 🔭 Currently enhancing my backend and deployment skills.
 - 🌱 Exploring DevOps, Next.js, and full-stack project architecture.
 - 📫 Reach me at **gd36990@gmail.com** — I’d love to connect!
-- 🌟 Just a nudge: You don’t always need a plan — just courage.
+- 🌟 Just a nudge: ***You don’t always need a plan — just courage***.
 
 ---
 ## ☕ Support My Work  
@@ -79,7 +83,7 @@ If you find this project helpful or inspiring, consider buying me a coffee — s
 ---
 ### 🚀 Let's Collaborate
 
-Whether you're working on a startup idea, an open-source project, or need a skilled developer for your team — I’m open to collaborating and bringing your vision to life!
+Whether you're working on a startup idea, an open-source project, or need a skilled developer for your team — **I’m open to collaborating and bringing your vision to life!**
 
 ---
 
