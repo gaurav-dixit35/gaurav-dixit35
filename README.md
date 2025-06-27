@@ -24,9 +24,11 @@
 
 <br>
 
+<h1 align="center">👋Gaurav Dixit | Developer & Designer</h1>
+<br>
+
 <img align="right" height="200" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" />
 
-<h1 align="center">👋Gaurav Dixit | Developer & Designer</h1>
 
 ### 👨‍💻 About Me
 
