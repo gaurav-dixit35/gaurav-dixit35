@@ -49,7 +49,7 @@ I'm a dedicated Full Stack Developer with a passion for creating robust web appl
 ## ☕ Support My Work  
 If you find this project helpful or inspiring, consider buying me a coffee — scan the QR after clicking below!
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://i.postimg.cc/wBPmkSM5/my-qr.jpg](https://i.postimg.cc/K8c1Th6y/my-qr.jpg))
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://i.postimg.cc/K8c1Th6y/my-qr.jpg)
 
 
 ---
