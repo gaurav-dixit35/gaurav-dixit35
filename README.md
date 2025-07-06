@@ -13,15 +13,12 @@
 
 <h1 align="center">👋Gaurav Dixit | Developer & Designer</h1>
 <br>
-
-
-
-<img align="right" height="200" src="https://i.postimg.cc/h4mnRW2y/download.gif" />
+<img align="right" height="200" width="250" src="https://i.postimg.cc/h4mnRW2y/download.gif" />
 
 ### 👨‍💻 About Me
 
-I'm a dedicated Full Stack Developer with a passion for creating robust web applications and solving real-world problems through code.
 
+I'm a Full Stack Developer passionate about building scalable web applications and real-world solutions.
 - 💼 Skilled in **JavaScript, React.js, Node.js, Python, Java, MySQL, MongoDB**.
 - 🧠 Actively improving problem-solving skills on **LeetCode**.
 - 🔭 Currently enhancing my backend and deployment skills.
