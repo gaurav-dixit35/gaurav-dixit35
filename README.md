@@ -1,15 +1,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-%2300C897.svg?style=for-the-badge)](https://gaurav-dixit35.github.io/Portfolio/)
-
  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Gaurav_Dixit_28/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100070377608503) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/g_dixit_28/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-dixit-3b0164229/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gd36990@gmail.com)
-
 <br>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gaurav-dixit35.gaurav-dixit35" />
-</div>
-
-<br>
-
 
 <h1 align="center">👋Gaurav Dixit | Developer & Designer</h1>
 <br>
