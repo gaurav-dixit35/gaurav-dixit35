@@ -4,7 +4,7 @@
 
 <h1 align="center">👋Gaurav Dixit | Developer & Designer</h1>
 <br>
-<img align="right" height="200" width="250" src="https://i.postimg.cc/h4mnRW2y/download.gif" />
+<img align="right" height="300" width="300" src="https://i.postimg.cc/h4mnRW2y/download.gif" />
 
 ### 👨‍💻 About Me
 
