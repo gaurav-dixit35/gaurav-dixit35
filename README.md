@@ -41,7 +41,7 @@ If you find this project helpful or inspiring, consider buying me a coffee — s
 ---
 ### 🚀 Let's Collaborate
 
-
+**Open** to collaborating on startups, open-source projects, or team-based development. I bring **strong** technical expertise and a results-driven approach to **turn ideas into impactful solutions**.
 
 ---
 
