@@ -41,7 +41,7 @@ If you find this project helpful or inspiring, consider buying me a coffee — s
 ---
 ### 🚀 Let's Collaborate
 
-Whether you're working on a startup idea, an open-source project, or need a skilled developer for your team — I’m open to collaborating and bringing your vision to life!
+
 
 ---
 
