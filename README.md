@@ -18,7 +18,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 - 🌟 Just a nudge: You don’t always need a plan — just courage.
 
 ---
-## ☕ Support My Work  
+### ☕ Support My Work  
 If you find this project helpful or inspiring, consider buying me a coffee — scan the QR after clicking below!
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://i.postimg.cc/wBPmkSM5/my-qr.jpg)
