@@ -4,7 +4,20 @@
 
 <h1 align="center">👋Gaurav Dixit | Developer & Designer</h1>
 <br>
-<img align="right" height="280" width="280" src="https://i.postimg.cc/h4mnRW2y/download.gif" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ###  👨‍💻About Me
 
